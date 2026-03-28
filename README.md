@@ -49,9 +49,6 @@ Meu instagram é [@bieltheboypjl](https://www.instagram.com/bieltheboypjl).
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api?username=bieltheboypjl&show_icons=true&theme-tokyonight&include_all_commits=true&locale=pt-br"
       />
-  </p>
-
-   <p>
     <img 
       align="left" 
       alt="GitHub Stats" 
