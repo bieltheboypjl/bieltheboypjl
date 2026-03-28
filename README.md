@@ -3,7 +3,7 @@
 ### **`Desenvolvedor em Aprendizado`**
 
 Meu nome é Gabriel, tenho 20 anos, e estou estudando Técnico em Desenvolvimento de Sistemas na ETEC Basilides de Godoy. Após concluir este curso, pretendo iniciar faculdade na área.
-Meu instagram é [@bieltheboyjl](https://www.instagram.com/bieltheboypjl).
+Meu instagram é [@bieltheboypjl](https://www.instagram.com/bieltheboypjl).
 
 ----
 ### 🤖 Linguagens e Tecnológias
@@ -47,7 +47,7 @@ Meu instagram é [@bieltheboyjl](https://www.instagram.com/bieltheboypjl).
       alt="GitHub Status"
       height="200"
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api?bieltheboypjl&show_icons=true&theme-tokyonight&include_all_commits=true&locale=pt-br"
+      src="https://github-readme-stats.vercel.app/api?username=bieltheboypjl&show_icons=true&theme-tokyonight&include_all_commits=true&locale=pt-br"
       />
   </p>
 
